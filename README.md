@@ -9,5 +9,6 @@
 </p
 
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/100086281072244)
-[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285729416714?text=asalamualaikum+bang) <br><br>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/khamdihi-dev) <a href="https://github.com/khamdihi-dev">My github</a>
+[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285729416714?text=asalamualaikum+bang)
+[![](https://img.shields.io/badge/Instagram-Blue?logo=Instagram&logoColor=blue&labelColor=white)](https://www.instagram.com/khamdihi_dev)<br><br>
+
