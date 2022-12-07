@@ -5,7 +5,7 @@
 <img src="https://media.tenor.com/btLg_WtV330AAAAC/milly-anime.gif">
 </p>
 <p align="center">
-<i> <b> i'm from purbalingga indonesia </b> </i>
+<i> <b> i'am from purbalingga indonesia </b> </i>
 </p
 
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/100086281072244)
