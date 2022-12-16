@@ -12,3 +12,4 @@
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285729416714?text=asalamualaikum+bang)
 [![](https://img.shields.io/badge/Instagram-Blue?logo=Instagram&logoColor=blue&labelColor=white)](https://www.instagram.com/khamdihi_dev)<br><br>
 
+### Hati² kena rip, wa & fb gw cuma ini !
