@@ -1,15 +1,18 @@
-<h1 align="center"> Welcome </h1>
-<p align="center">♥</p>
+# 💫 About Me:
+mung iso turu
 
-<p align="center">
-<img src="https://media.tenor.com/btLg_WtV330AAAAC/milly-anime.gif">
-</p>
-<p align="center">
-<i> <b> i'am from purbalingga indonesia </b> </i>
-</p
 
-[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/100086281072244)
-[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285729416714?text=asalamualaikum+bang)
-[![](https://img.shields.io/badge/Instagram-Blue?logo=Instagram&logoColor=blue&labelColor=white)](https://www.instagram.com/khamdihi_dev)<br><br>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khamdihi_dev) 
 
-### Hati² kena rip, wa & fb gw cuma ini !
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=khamdihi-dev&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=khamdihi-dev&theme=nord&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khamdihi-dev&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=khamdihi-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
