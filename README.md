@@ -1,7 +1,8 @@
 <!-- Banner Header -->
 <p align="center">
-  <img width="100%" src="https://i.pinimg.com/736x/a6/0b/45/a60b45ade5e814a3d64fc254322e397d.jpg">
+  <img src="https://i.pinimg.com/736x/a6/0b/45/a60b45ade5e814a3d64fc254322e397d.jpg" style="max-width: 900px; width: 100%; height: auto;" />
 </p>
+
 
 <h1 align="center">
   <strong>Hello World! I'm <a href="https://github.com/khamdihi-dev" target="_blank">Khamdihi Dev</a></strong>
