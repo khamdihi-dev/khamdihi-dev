@@ -1,6 +1,6 @@
 <!-- Header Gambar Bundar -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/a6/0b/45/a60b45ade5e814a3d64fc254322e397d.jpg" width="240" />
+  <img src="https://avatars.githubusercontent.com/u/118111949?v=4" width="240" />
 </p>
 
 <h1 align="center">
