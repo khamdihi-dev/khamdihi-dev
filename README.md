@@ -1,31 +1,26 @@
-<!-- Header Gambar Bundar -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/118111949?v=4" width="240" />
-</p>
-
 <h1 align="center">
   <strong>Halo Dunia! Saya <a href="https://github.com/khamdihi-dev" target="_blank">Khamdihi Dev</a></strong>
 </h1>
 
 <h3 align="center">
-  Pengembang Perangkat Lunak • Ahli Otomatisasi • Spesialis Backend
+  Pengembang Perangkat Lunak • Spesialis Otomatisasi • Solo Full-Stack
 </h3>
 
 ---
 
 ## 🧑‍💼 Tentang Saya
 
-Saya adalah seorang **Pengembang Perangkat Lunak** asal Indonesia dengan keahlian dalam **Node.js**, **JavaScript**, dan **Python**.  
+Saya adalah seorang **Pengembang Perangkat Lunak** asal **Indonesia, Jawa Tengah, Purbalingga**, dengan keahlian dalam **Node.js**, **JavaScript**, dan **Python**.  
 Fokus saya adalah membangun solusi **otomatisasi tugas**, sistem **backend yang aman dan efisien**, serta alat produktivitas yang **mudah digunakan** dan **berdampak nyata**.
 
-> *Kode yang bersih bukan sekadar indah, tapi juga jelas dan andal.*
+> *Kode yang bersih bukan hanya indah, tetapi juga jelas dan andal.*
 
 ---
 
 ## 🚀 Keahlian Utama
 
-- 🔁 Pengembangan Bot & Otomatisasi  
-- 🌐 Pengembangan Backend & API (Express.js / FastAPI)  
+- 🔁 Bot & Otomatisasi  
+- 🌐 Backend & API (Express.js / FastAPI)  
 - 🧠 Web Scraping & Tools AI  
 - 🛡️ Keamanan, Validasi, dan Autentikasi  
 - ⚙️ MongoDB, SQLite, Git, TailwindCSS  
