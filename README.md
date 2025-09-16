@@ -1,29 +1,32 @@
 <h1 align="center">
-  <strong>Halo Dunia! Saya <a href="https://github.com/khamdihi-dev" target="_blank">Khamdihi Dev</a></strong>
+  👋 Halo Dunia! Saya <a href="https://github.com/khamdihi-dev" target="_blank">Khamdihi Dev</a>
 </h1>
 
 <h3 align="center">
-  Pengembang Perangkat Lunak • Spesialis Otomatisasi • Solo Full-Stack
+  🚀 Pengembang Perangkat Lunak • 🤖 Spesialis Otomatisasi • 💻 Solo Full-Stack
 </h3>
 
 ---
 
 ## 🧑‍💼 Tentang Saya
 
-Saya adalah seorang **Pengembang Perangkat Lunak** asal **Indonesia, Jawa Tengah, Purbalingga**, dengan keahlian dalam **Node.js**, **JavaScript**, dan **Python**.  
-Fokus saya adalah membangun solusi **otomatisasi tugas**, sistem **backend yang aman dan efisien**, serta alat produktivitas yang **mudah digunakan** dan **berdampak nyata**.
+Saya adalah seorang **Pengembang Perangkat Lunak** asal **Purbalingga, Jawa Tengah – Indonesia** 🇮🇩  
+dengan keahlian dalam **Node.js**, **JavaScript**, dan **Python**.  
 
-> *Kode yang bersih bukan hanya indah, tetapi juga jelas dan andal.*
+Fokus saya adalah membangun solusi:  
+- ⚡ **Otomatisasi tugas** untuk menghemat waktu  
+- 🔒 **Backend yang aman & efisien**  
+- 🛠️ **Alat produktivitas** yang mudah digunakan & berdampak nyata  
+
+> ✨ *"Kode yang bersih bukan hanya indah, tetapi juga jelas dan andal."*  
 
 ---
 
-## 🚀 Keahlian Utama
+## 🛠️ Keahlian Utama
 
 - 🔁 Bot & Otomatisasi  
-- 🌐 Backend & API (Express.js / FastAPI)  
-- 🧠 Web Scraping & Tools AI  
-- 🛡️ Keamanan, Validasi, dan Autentikasi  
-- ⚙️ MongoDB, SQLite, Git, TailwindCSS  
+- 🌐 Pengembangan Website  
+- 🧠 Web Scraping & Data Processing  
 
 ---
 
@@ -42,12 +45,27 @@ Fokus saya adalah membangun solusi **otomatisasi tugas**, sistem **backend yang 
 
 ---
 
+## 📬 Hubungi Saya
+<p align="center">
+  <a href="https://github.com/khamdihi-dev">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@qwr.id">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://wa.me/6283853140469">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=khamdihi-dev" alt="Statistik Pengunjung" />
 </p>
 
 <p align="center">
-  <em>Terima kasih telah mengunjungi profil saya 🙏</em>
+  <em>🙏 Terima kasih telah mengunjungi profil saya</em>
 </p>
 
 <p align="center">
