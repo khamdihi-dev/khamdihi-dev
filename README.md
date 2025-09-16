@@ -15,8 +15,12 @@ dengan keahlian dalam **Node.js**, **JavaScript**, dan **Python**.
 
 Fokus saya adalah membangun solusi:  
 - ⚡ **Otomatisasi tugas** untuk menghemat waktu  
-- 🔒 **Backend yang aman & efisien**  
 - 🛠️ **Alat produktivitas** yang mudah digunakan & berdampak nyata  
+
+💡 Saya juga terbuka untuk **freelance project** dengan keunggulan:  
+- ⚡ **Proses ngoding cepat & efisien**  
+- 💸 **Budget pelajar (ramah di kantong)**  
+- 🤝 **Solusi praktis sesuai kebutuhan**  
 
 > ✨ *"Kode yang bersih bukan hanya indah, tetapi juga jelas dan andal."*  
 
