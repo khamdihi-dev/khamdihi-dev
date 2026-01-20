@@ -1,50 +1,42 @@
-# 👋 Halo! Saya [Khamdihi Dev](https://github.com/khamdihi-dev)
+<h1 align="center">Hi 👋, I'm Khamdihi</h1>
+<h3 align="center">Software Developer | Web Development Enthusiast | Automation Tools Builder from Indonesia 🇮🇩</h3>
 
-Saya adalah **pengembang perangkat lunak pemula** dari  
-**Purbalingga, Jawa Tengah – Indonesia 🇮🇩**.
+- 🔭&nbsp;I'm currently working on building practical web applications and automation tools with JavaScript, Python, and PHP.
 
-Saya **bukan ahli** dan masih perlu **belajar banyak hal**. Namun, saya memiliki ketertarikan besar pada dunia pemrograman dan senang membangun **alat sederhana yang bermanfaat dan bisa digunakan langsung**.
+- 💻&nbsp;Passionate about **Web Development**, **Automation**, and **Open Source**.
 
-Bahasa yang paling sering saya gunakan adalah **JavaScript**, **Python**, dan **PHP**.  
-Saya tertarik pada **otomatisasi**, **pengembangan web**, serta pembuatan **tools yang membantu menghemat waktu dan tenaga**.
+- 💬&nbsp;Ask me about **JavaScript / Python / PHP / Node.js / Express / TailwindCSS**.
 
-> *“Belajar sedikit demi sedikit, yang penting konsisten dan terus berjalan.”*
+- 📍&nbsp;Based in **Purbalingga, Jawa Tengah – Indonesia**.
 
----
+- ⚡&nbsp;Fun fact: *I believe consistency in learning and execution leads to success!*
 
-## 💻 Bahasa & Tools
-
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
-
-![Node.js](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=node.js&color=339933)
-![Express](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&color=000000)
-![TailwindCSS](https://img.shields.io/badge/CSS-TailwindCSS-informational?style=flat&logo=tailwind-css&color=38B2AC)
-
-![Git](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&color=F05032)
-![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=FCC624)
-![VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&color=007ACC)
-
----
-
-## 📊 GitHub
-
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=khamdihi-dev&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamdihi-dev&layout=compact&theme=radical" height="165"/>
+    <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+    <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/>
 </p>
 
----
-
-## 📬 Kontak
-
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white)](https://github.com/khamdihi-dev)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@khamdihi_official)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/6283853140469)
-
----
-
+<h3 align="left">Connect with me:</h3>
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=khamdihi-dev" />
+    <a href="https://github.com/khamdihi-dev" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="khamdihi-dev" height="30" width="30" />
+    </a>
+    <a href="https://www.tiktok.com/@khamdihi_official" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="khamdihi_official" height="30" width="30" />
+    </a>
+    <a href="https://wa.me/6283853140469" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="whatsapp" height="30" width="30" />
+    </a>
+    <img align="center" src="https://komarev.com/ghpvc/?username=khamdihi-dev&color=blue" alt="khamdihi-dev" />
 </p>
