@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Khamdihi;Software+Developer+%F0%9F%9A%80;Web+%26+Automation+Builder+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Khamdihi;Software+Developer+%F0%9F%9A%80;Web+%26+Automation+%F0%9F%94%A5" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Software Developer | Web Development Enthusiast | Automation Tools Builder from Indonesia 🇮🇩</h3>
