@@ -68,7 +68,7 @@
   <a href="https://github.com/khamdihi-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.tiktok.com/@khamdihi_official" target="_blank">
+  <a href="https://www.tiktok.com/@khamdihi_dev" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
   <a href="https://wa.me/6283853140469" target="_blank">
