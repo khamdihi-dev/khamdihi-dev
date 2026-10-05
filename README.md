@@ -76,15 +76,15 @@ My background is in **CLI tools and automation with Python**, which was my main 
 ### GitHub Stats
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api?username=khamdihi-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=500" alt="stats" />
+  <img width="500" src="https://github-readme-stats-salesp07.vercel.app/api?username=khamdihi-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=khamdihi-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" alt="top langs" />
+  <img width="500" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=khamdihi-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=khamdihi-dev&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img width="500" src="https://streak-stats.demolab.com/?user=khamdihi-dev&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 ---
